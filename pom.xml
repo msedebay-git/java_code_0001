@@ -25,18 +25,7 @@
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
 	
-	<distributionManagement>
-           <snapshotRepository>
-               <id>snapshots</id>
-               <name>6d1e73b6bfab-snapshots</name>
-               <url>http://3.84.149.242:8081/artifactory/libs-snapshot-local</url>
-       </snapshotRepository>
-
-       <repository>
-              <id>central</id>
-              <name>6d1e73b6bfab-releases</name>
-              <url>http://3.84.149.242:8081/artifactory/libs-release-local</url>
-    </repository>
+	
   </distributionManagement>	
 	
 		
